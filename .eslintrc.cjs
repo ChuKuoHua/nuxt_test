@@ -26,6 +26,7 @@ module.exports = {
       {
         ignores: ['index']
       }
-    ]
+    ],
+    'no-undef': 'off'
   }
 }
